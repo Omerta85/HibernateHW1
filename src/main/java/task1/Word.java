@@ -1,4 +1,4 @@
-package HW1.task1;
+package task1;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

@@ -1,4 +1,4 @@
-package HW1.task2;
+package task2;
 
 public enum CarType {
     SEDAN,

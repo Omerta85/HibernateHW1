@@ -1,6 +1,5 @@
-package HW1.task1;
+package task1;
 
-import HW1.task1.Word;
 import io.github.cdimascio.dotenv.Dotenv;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
